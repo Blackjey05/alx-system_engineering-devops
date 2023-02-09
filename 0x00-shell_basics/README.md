@@ -9,4 +9,5 @@
 7-movethatfile - a file that moves the file betty from /tmp/ to /tmp/my_first_directory
 8-firstdelete -a file that Delete the file betty
 9-firstdirdeletion - a file that Delete the directory my_first_directory that is in the /tmp directory
+10-back - a file that Write a script that changes the working directory to the previous one.
 
