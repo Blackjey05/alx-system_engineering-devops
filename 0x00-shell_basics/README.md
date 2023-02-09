@@ -6,4 +6,5 @@
 4-listmorefiles - a file that displays current directory contents, including hidden files (starting with .). Use the long format
 5-listfilesdigitonly - a file that displays current directory contents in numbers
 6-firstdirectory - a file that Creates a script that creates a directory named my_first_directory in the /tmp/ directory.
+7-movethatfile - a file that moves the file betty from /tmp/ to /tmp/my_first_directory
 
