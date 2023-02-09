@@ -13,4 +13,5 @@
 11-lists -a script that lists all files in long format
 12-file_type - a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 13-symbolic_link - a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory
+14-copy_html - a script that copies all the HTML files from the current working directory to the parent of the working directory
 
