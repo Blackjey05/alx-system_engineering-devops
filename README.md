@@ -1,3 +1,3 @@
 #!/bin/bash
-Welcome to shell basics
+Welcome to Shell Basics
 
